@@ -1,0 +1,20 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+django = "*"
+djangorestframework = "*"
+django-cors-headers = "*"
+djongo = "*"
+dnspython = "*"
+pymongo = "==3.12.1"
+django-crispy-forms = "*"
+numpy = "*"
+scipy = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.8"
