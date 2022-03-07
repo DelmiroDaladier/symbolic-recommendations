@@ -1,0 +1,161 @@
+[{
+  "_id": {
+    "$oid": "62243b2e93b29d5fcbce15d1"
+  },
+  "id": 1,
+  "user_id": 1,
+  "movie_id": 3877,
+  "rating": "2"
+},{
+  "_id": {
+    "$oid": "62243b3893b29d5fcbce15d3"
+  },
+  "id": 2,
+  "user_id": 1,
+  "movie_id": 1920,
+  "rating": "2"
+},{
+  "_id": {
+    "$oid": "62243b4493b29d5fcbce15d5"
+  },
+  "id": 3,
+  "user_id": 1,
+  "movie_id": 65,
+  "rating": "2"
+},{
+  "_id": {
+    "$oid": "62243b5193b29d5fcbce15d7"
+  },
+  "id": 4,
+  "user_id": 1,
+  "movie_id": 1370,
+  "rating": "2"
+},{
+  "_id": {
+    "$oid": "62243b5f93b29d5fcbce15d9"
+  },
+  "id": 5,
+  "user_id": 1,
+  "movie_id": 473,
+  "rating": "2"
+},{
+  "_id": {
+    "$oid": "62243b6a93b29d5fcbce15db"
+  },
+  "id": 6,
+  "user_id": 1,
+  "movie_id": 4553,
+  "rating": "3"
+},{
+  "_id": {
+    "$oid": "62243b7593b29d5fcbce15dd"
+  },
+  "id": 7,
+  "user_id": 1,
+  "movie_id": 2313,
+  "rating": "3"
+},{
+  "_id": {
+    "$oid": "62243b8193b29d5fcbce15df"
+  },
+  "id": 8,
+  "user_id": 1,
+  "movie_id": 4986,
+  "rating": "3"
+},{
+  "_id": {
+    "$oid": "62243b8c93b29d5fcbce15e1"
+  },
+  "id": 9,
+  "user_id": 1,
+  "movie_id": 829,
+  "rating": "3"
+},{
+  "_id": {
+    "$oid": "62243b9693b29d5fcbce15e3"
+  },
+  "id": 10,
+  "user_id": 1,
+  "movie_id": 1377,
+  "rating": "3"
+},{
+  "_id": {
+    "$oid": "62243ba893b29d5fcbce15e5"
+  },
+  "id": 11,
+  "user_id": 1,
+  "movie_id": 1127,
+  "rating": "4"
+},{
+  "_id": {
+    "$oid": "62243bb193b29d5fcbce15e7"
+  },
+  "id": 12,
+  "user_id": 1,
+  "movie_id": 292,
+  "rating": "4"
+},{
+  "_id": {
+    "$oid": "62243bbf93b29d5fcbce15e9"
+  },
+  "id": 13,
+  "user_id": 1,
+  "movie_id": 2012,
+  "rating": "4"
+},{
+  "_id": {
+    "$oid": "62243bca93b29d5fcbce15eb"
+  },
+  "id": 14,
+  "user_id": 1,
+  "movie_id": 1923,
+  "rating": "4"
+},{
+  "_id": {
+    "$oid": "62243bd293b29d5fcbce15ed"
+  },
+  "id": 15,
+  "user_id": 1,
+  "movie_id": 2428,
+  "rating": "4"
+},{
+  "_id": {
+    "$oid": "62243be093b29d5fcbce15ef"
+  },
+  "id": 16,
+  "user_id": 1,
+  "movie_id": 1266,
+  "rating": "5"
+},{
+  "_id": {
+    "$oid": "62243beb93b29d5fcbce15f1"
+  },
+  "id": 17,
+  "user_id": 1,
+  "movie_id": 457,
+  "rating": "5"
+},{
+  "_id": {
+    "$oid": "62243bf693b29d5fcbce15f3"
+  },
+  "id": 18,
+  "user_id": 1,
+  "movie_id": 1265,
+  "rating": "5"
+},{
+  "_id": {
+    "$oid": "62243c0193b29d5fcbce15f5"
+  },
+  "id": 19,
+  "user_id": 1,
+  "movie_id": 333,
+  "rating": "5"
+},{
+  "_id": {
+    "$oid": "62243c0a93b29d5fcbce15f7"
+  },
+  "id": 20,
+  "user_id": 1,
+  "movie_id": 1994,
+  "rating": "5"
+}]
